@@ -4,6 +4,7 @@
     </p>
 <p style="clear:both;text-align:center"> <strong>Algorísmica</strong> per <em>Jordi Vitrià</em> i <em>Mireia Ribera</em></p>
 </div>
+
 # LListat de problemes
 
 ## [Prefaci](Prefaci.ipynb)
