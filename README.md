@@ -23,7 +23,7 @@
 1. [Combinacions](Combinacions.ipynb)
 
 
-## A. [Basics Python](Basics.ipynb)
+## [Basics Python](Basics.ipynb)
 1. [Variables](BasicsVariables.ipynb) i [solucio](BasicsVariables-Solucio.ipynb)
 1. [Cadenes](BasicsCadenes.ipynb) i [solucio](BasicsCadenes-Solucio.ipynb)
 1. [Control](BasicsControl.ipynb) i [solucio](BasicsControl-Solucio.ipynb)
@@ -34,7 +34,7 @@
 1. [Càlcul complexitat](BasicsCalculComplexitat.ipynb) i [solucio](BasicsCalculComplexitat-Solucio.ipynb)
 1. [Els 8 errors](BasicsEls8errors.ipynb) i [solucio](BasicsEls8errors-Solucio.ipynb)
 
-## [B.  Python](Python.ipynb)
+## [Python](Python.ipynb)
 1. [Ambicios](Ambicios.ipynb)
 1. [Amics](Amics.ipynb)
 1. [Apocaliptic](Apocaliptic.ipynb)
