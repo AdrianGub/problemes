@@ -1,5 +1,5 @@
 <div id="capcalera">
-<p><a href="https://colab.research.google.com/github/algorismica2019/algorismica2019.github.io/blob/master/problemes/LListatProblemes.ipynb"><img style="margin:-10px 10px 20px 0" width="150px" align="right" src="https://raw.githubusercontent.com/algorismica2019/algorismica2019.github.io/master/problemes/assets/colab-badge.png?raw=1" alt="Obrir a Colab" title="Obrir i executar a Google Colaboratory"></a></p>
+<p>
 <p style="clear:both"><img align='center' width="70%"  src="https://github.com/MireiaUB/algorismica2019.github.io/blob/patch-1/al-khwarizmi.png?raw=1" /> 
     </p>
 <p style="clear:both;text-align:center"> <strong>Algorísmica</strong> per <em>Jordi Vitrià</em> i <em>Mireia Ribera</em></p>
